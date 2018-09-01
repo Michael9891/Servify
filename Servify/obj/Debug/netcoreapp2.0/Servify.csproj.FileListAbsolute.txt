@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Servify\Servify\bin\Debug\netcoreapp2.0\Servify.deps.json
+C:\Users\user\source\repos\Servify\Servify\bin\Debug\netcoreapp2.0\Servify.dll
+C:\Users\user\source\repos\Servify\Servify\obj\Debug\netcoreapp2.0\Servify.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Servify\Servify\obj\Debug\netcoreapp2.0\Servify.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Servify\Servify\obj\Debug\netcoreapp2.0\Servify.AssemblyInfo.cs
+C:\Users\user\source\repos\Servify\Servify\bin\Debug\netcoreapp2.0\Servify.pdb
+C:\Users\user\source\repos\Servify\Servify\obj\Debug\netcoreapp2.0\Servify.dll
+C:\Users\user\source\repos\Servify\Servify\obj\Debug\netcoreapp2.0\Servify.pdb
+C:\Users\user\source\repos\Servify\Servify\bin\Debug\netcoreapp2.0\Servify.runtimeconfig.json
+C:\Users\user\source\repos\Servify\Servify\bin\Debug\netcoreapp2.0\Servify.runtimeconfig.dev.json
+C:\Users\user\source\repos\Servify\Servify\obj\Debug\netcoreapp2.0\Servify.csprojAssemblyReference.cache
